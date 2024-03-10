@@ -103,23 +103,24 @@
 
 <h4 align="center">its a Feature !!!!</h4>
 
-###  👀
+### ############################################
 
 <div align="center">
   <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mk-othman&show_icons=true&locale=en&layout=compact" alt="mk-othman" width="450"/></p> 
   <img height="200" src="https://user-images.githubusercontent.com/74038190/213866269-5d00981c-7c98-46d7-8a8e-16f462f15227.gif"  />
 </div>
 
-<!--
-<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=mk-othman&show_icons=true&locale=en" alt="mk-othman" width="600px" /></p>
+
 <div align="left">
+  <p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=mk-othman&show_icons=true&locale=en" alt="mk-othman" width="600px" /></p>
   <img height="200" src="https://user-images.githubusercontent.com/74038190/213866269-5d00981c-7c98-46d7-8a8e-16f462f15227.gif"  />
 </div>
--->
+
 
 <div align="right">
-  <p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=mk-othman&" alt="mk-othman" width="600px" style="margin: 250px;" /></p>
   <img height="200" src="https://user-images.githubusercontent.com/74038190/213866269-5d00981c-7c98-46d7-8a8e-16f462f15227.gif"  />
+    <p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=mk-othman&" alt="mk-othman" width="550" style="margin: 250px;" /></p>
+
 </div>
 
 ###
