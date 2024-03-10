@@ -68,6 +68,7 @@
 <img align="right" height="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif"  />
 
 ###
+<h1 align="center">  <br>  <br> <br> <br>  </h1>
 
 <h2 align="left">Contact With me :</h2>
 
@@ -84,7 +85,7 @@
 
 ###
 
-<div align="center">
+<div align="left">
   <img height="30" src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif"  />
 </div>
 
