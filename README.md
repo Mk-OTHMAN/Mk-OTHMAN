@@ -118,9 +118,8 @@
 
 
 <div align="center">
-  <img height="200" src="https://user-images.githubusercontent.com/74038190/213866269-5d00981c-7c98-46d7-8a8e-16f462f15227.gif"  />
     <p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=mk-othman&" alt="mk-othman" width="450" style="margin: 250px;" /></p>
-
+    <img height="200" src="https://user-images.githubusercontent.com/74038190/213866269-5d00981c-7c98-46d7-8a8e-16f462f15227.gif"  />
 </div>
 
 ###
