@@ -68,6 +68,7 @@
 <img align="right" height="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif"  />
 
 ###
+<!--
 <h1 align="center">  <br> </h1>
 
 <h2 align="center"> Contact With ME </h2>
@@ -82,7 +83,7 @@
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="90" height="40" alt="gmail logo"  />
   </a>
 </div>
-
+-->
 ###
 
 <div align="left">
@@ -90,17 +91,19 @@
 </div>
 
 ###
+&nbsp;
+<br/><br/>
 
 <h4 align="left">its Not a bug ..</h4>
 
 ###
-
+<br/><br/>
 <div align="center">
   <img height="50" src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif"  />
 </div>
 
 ###
-
+<br/><br/>
 <h4 align="center">its a Feature !!!!</h4>
 
 ### ############################################
@@ -125,7 +128,7 @@
 ###
 <h1 align="center">  <br>  <br>  </h1>
 <div align="center">
-  <h2>🐍 My Contributions 🐍</h2>
+  <h2>🐍 _______________ 🐍</h2>
   <br>
   <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake.svg" />
   
