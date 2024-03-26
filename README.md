@@ -65,7 +65,7 @@
 
 ###
 
-<img align="center" height="400" width="700" src="https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif"  />
+<img align="center" height="400" width="900" src="https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif"  />
 
 ###
 <!--
