@@ -65,7 +65,7 @@
 
 ###
 
-<img align="right" height="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif"  />
+<img align="center" height="400" width="800" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif"  />
 
 ###
 <!--
